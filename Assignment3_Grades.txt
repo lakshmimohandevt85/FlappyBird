@@ -1,0 +1,21 @@
+
+
+Bird flaps wings	                       15/15
+
+Bird moves up smoothly	                       15/15
+
+Bird moves down smoothly                       15/15
+
+Can draw the set of rectangles                 20/20
+
+Rectangles move slowly		               15/15
+
+Detecting when bird hits rectangle             15/15
+
+Detecting when bird hits edge of the screen    5/5
+
+
+
+
+Total                                          100/100
+
